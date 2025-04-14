@@ -1,0 +1,10 @@
+add drink b
+add throwtrash d
+add travel d
+edit eat 1
+add swimming d
+add work a
+edit work 1
+add gotoschool a
+edit travel 1
+view
